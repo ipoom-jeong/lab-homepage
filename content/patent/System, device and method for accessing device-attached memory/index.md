@@ -14,7 +14,7 @@ authors:
 publication: International Patent (Registered)
 abstract: 
 draft: false
-url_pdf: https://arxiv.org/abs/2305.02480
+url_pdf: 
 featured: true
 summary: 
 url_dataset: ""
