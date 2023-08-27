@@ -1,16 +1,14 @@
 ---
 publication_types:
-  - "3"
+  - "8"
 authors:
-  - Jeongho Lee
-  - Heehyun Nam
-  - Jaeho Shin
-  - Hyodeok Shin
-  - Younggeon Yoo
-  - Younho Jeon
-  - Wonseb Jeong
+  - Won Woo Ro
+  - Hyunwuk Lee
+  - Gun Ko
   - admin
-  - Hyeokjun Choe
+  - Minseong Kim
+  - Yongtag Song
+  - Sungjae Lee
 publication: US Patent
 abstract: 
 draft: false
@@ -23,9 +21,9 @@ publication_short: ""
 url_source: ""
 url_video: ""
 url_tutorial: ""
-title: System, device and method for accessing device-attached memory
+title: Memory Device Including a Plurality of Area Having Different Refresh Periods, Memory Controller Controlling the Same and Memory System Including the Same
 tags:
-date: 2023-02-21T04:22:25.169Z
+date: 2022-03-15T04:22:25.169Z
 url_slides: ""
 links:
 image:
