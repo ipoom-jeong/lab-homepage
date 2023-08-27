@@ -12,6 +12,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jip9110@gmail.com
+  - icon: house
+    icon_pack: fas
+    link: https://ipoom-jeong.com
   - display:
       header: false
     link: https://www.linkedin.com/in/ipoom-jeong
