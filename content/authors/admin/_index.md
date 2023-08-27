@@ -5,9 +5,9 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - CPU/GPU Microarchitectures
-  - High-Performance System Architectures
+  - System Architectures
   - Near-Data Processing
-  - Interconnect Technologies (e.g., CXL)
+  - Interconnect Technologies
 social:
   - icon: envelope
     icon_pack: fas
