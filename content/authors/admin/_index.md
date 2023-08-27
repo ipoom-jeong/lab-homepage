@@ -4,9 +4,9 @@ role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Energy-Efficient CPU/GPU Microarchitectures
+  - CPU/GPU Microarchitectures
   - High-Performance System Architectures
-  - Near-Data Processing (e.g., PIM, SmartSSD, and SmartNIC)
+  - Near-Data Processing
   - Interconnect Technologies (e.g., CXL)
 social:
   - icon: envelope
