@@ -25,10 +25,6 @@ url_video: ""
 url_tutorial: ""
 title: System, device and method for accessing device-attached memory
 tags:
-  - Accelerator
-  - DMA
-  - Xeon
-  - Sapphire Rapids
 date: 2023-02-21T04:22:25.169Z
 url_slides: ""
 url_poster: ""
