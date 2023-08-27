@@ -1,10 +1,10 @@
 ---
 publication_types:
-  - "3"
+  - "8"
 authors:
   - Won Woo Ro
   - admin
-publication: US Patent
+publication: KR Patent
 abstract: 
 draft: false
 url_pdf: 
