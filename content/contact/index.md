@@ -10,7 +10,7 @@ sections:
       title: Contact
       text:
       email: ipoom.jeong@yonsei.ac.kr
-      phone: 888 888 88 88
+      #phone: 888 888 88 88
       address:
         street: 450 Serra Mall
         city: Stanford
