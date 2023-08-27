@@ -22,12 +22,9 @@ social:
     link: https://scholar.google.com/citations?user=iGTEZKcAAAAJ&hl=ko&oi=ao
     icon: google-scholar
     icon_pack: ai
-  - icon: google-scholar
+  - icon: cv
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=iGTEZKcAAAAJ&hl=ko&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: uploads/resume.pdf
 organizations:
   - name: Yonsei University
     url: "https://www.yonsei.ac.kr"
