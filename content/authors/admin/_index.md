@@ -12,9 +12,16 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jip9110@gmail.com
-  - icon: twitter
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/ipoom-jeong
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    icon: linkedin
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=iGTEZKcAAAAJ&hl=ko&oi=ao
+    icon: google-scholar
+    icon_pack: ai
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=iGTEZKcAAAAJ&hl=ko&oi=ao
