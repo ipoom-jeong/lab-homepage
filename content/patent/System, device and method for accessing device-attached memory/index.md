@@ -1,6 +1,6 @@
 ---
 publication_types:
-  - "3"
+  - "8"
 authors:
   - Jeongho Lee
   - Heehyun Nam
