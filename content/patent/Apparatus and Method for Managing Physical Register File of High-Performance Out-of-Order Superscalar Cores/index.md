@@ -2,15 +2,8 @@
 publication_types:
   - "3"
 authors:
-  - Jeongho Lee
-  - Heehyun Nam
-  - Jaeho Shin
-  - Hyodeok Shin
-  - Younggeon Yoo
-  - Younho Jeon
-  - Wonseb Jeong
+  - Won Woo Ro
   - admin
-  - Hyeokjun Choe
 publication: US Patent
 abstract: 
 draft: false
@@ -23,9 +16,9 @@ publication_short: ""
 url_source: ""
 url_video: ""
 url_tutorial: ""
-title: System, device and method for accessing device-attached memory
+title: Apparatus and Method for Managing Physical Register File of High-Performance Out-of-Order Superscalar Cores
 tags:
-date: 2023-02-21T04:22:25.169Z
+date: 2021-08-17T04:22:25.169Z
 url_slides: ""
 links:
 image:
