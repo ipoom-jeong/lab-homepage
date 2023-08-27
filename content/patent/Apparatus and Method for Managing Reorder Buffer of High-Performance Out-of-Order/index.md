@@ -4,7 +4,7 @@ publication_types:
 authors:
   - Won Woo Ro
   - admin
-publication: US Patent
+publication: KR Patent
 abstract: 
 draft: false
 url_pdf: 
