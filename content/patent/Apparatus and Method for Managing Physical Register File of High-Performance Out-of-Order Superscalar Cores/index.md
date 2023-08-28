@@ -25,4 +25,4 @@ image:
 url_poster: ""
 url_code: ""
 ---
-asd
+KR: Registered in 2021.08.17 (Application No.: 10-2020-0033669, Registration No.: 10-2292580)
