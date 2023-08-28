@@ -1,5 +1,6 @@
 ---
 title: Developing CPU-GPU Heterogeneous Computing Simulation Framework
+subtitle: Joint project with SK Hynix (2019.02 - 2020.02)
 date: 2019-02-01T00:00:00.000Z
 summary: >-
   * Research project at Yonsei University joint with SK Hynix (2019.02 -
