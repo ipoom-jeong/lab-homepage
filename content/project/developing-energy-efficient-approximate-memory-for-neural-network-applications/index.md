@@ -1,5 +1,6 @@
 ---
 title: Developing Energy-Efficient Approximate Memory for Neural Network Applications
+subtitle: Joint project with SK Hynix (2018.07 - 2019.06)
 date: 2018-07-01T00:00:00.000Z
 summary: >-
   * Research project at Yonsei University joint with SK Hynix (2018.07 -
