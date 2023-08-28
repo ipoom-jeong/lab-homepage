@@ -1,7 +1,6 @@
 ---
 title: Developing Low-Power Mobile Computing Platform
-subtitle: Research project at Yonsei University joint with LG Electronics
-  (2014.07 - 2017.11)
+subtitle: Joint project with LG Electronics (2014.07 - 2017.11)
 date: 2014-07-01T00:00:00.000Z
 summary: >-
   * Research project at Yonsei University joint with LG Electronics (2014.07 -
