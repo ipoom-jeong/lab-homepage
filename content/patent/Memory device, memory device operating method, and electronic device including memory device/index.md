@@ -9,7 +9,7 @@ authors:
   - Younho Jeon
   - admin
   - Chanho Yoon
-publication: CN/US/KR Patents
+publication: CN/US/KR Patents Application
 abstract: 
 draft: false
 url_pdf: 
