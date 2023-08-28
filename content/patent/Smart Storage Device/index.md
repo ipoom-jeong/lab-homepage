@@ -28,5 +28,4 @@ image:
 url_poster: ""
 url_code: ""
 ---
-- 
 - KR: Applied in 2021.01.20 (Application No.: 10-2021-0007897)
