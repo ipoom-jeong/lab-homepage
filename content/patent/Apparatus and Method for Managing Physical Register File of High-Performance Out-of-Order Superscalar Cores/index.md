@@ -9,7 +9,7 @@ abstract:
 draft: false
 url_pdf: 
 featured: true
-summary: asd
+summary: 
 url_dataset: ""
 url_project: ""
 publication_short: ""
