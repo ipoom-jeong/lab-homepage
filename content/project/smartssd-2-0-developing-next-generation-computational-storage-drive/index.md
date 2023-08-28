@@ -1,6 +1,6 @@
 ---
 title: "SmartSSD 2.0: Developing Next-Generation Computational Storage Drive"
-subtitle: Research and development project at Samsung Electronics (2020.09 - 2021.08)
+subtitle: Development project at Samsung Electronics (2020.09 - 2021.08)
 date: 2020-09-01T00:00:00.000Z
 summary: >-
   * [Research and development project at Samsung Electronics (2020.09 -
