@@ -7,7 +7,7 @@ authors:
   - Younggeon Yoo
   - Hyodeok Shin
   - admin
-publication: KR Patent
+publication: KR Patent Application
 abstract: 
 draft: false
 url_pdf: 
