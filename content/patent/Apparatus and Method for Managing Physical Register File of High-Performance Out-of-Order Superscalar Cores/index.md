@@ -5,7 +5,7 @@ authors:
   - Won Woo Ro
   - admin
 publication: KR Patent
-abstract: jksdfhksjdfhskdjfhk
+abstract: 
 draft: false
 url_pdf: 
 featured: true
@@ -25,4 +25,4 @@ image:
 url_poster: ""
 url_code: ""
 ---
-- KR: **Registered in 2021.08.17** (Registration No.: 10-2292580)
+- **KR: Registered in 2021.08.17 (Registration No.: 10-2292580)**
