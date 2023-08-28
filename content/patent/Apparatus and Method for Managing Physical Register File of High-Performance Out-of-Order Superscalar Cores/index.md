@@ -5,7 +5,7 @@ authors:
   - Won Woo Ro
   - admin
 publication: KR Patent
-abstract: 
+abstract: jksdfhksjdfhskdjfhk
 draft: false
 url_pdf: 
 featured: true
