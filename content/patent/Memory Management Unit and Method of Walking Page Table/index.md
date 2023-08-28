@@ -8,7 +8,7 @@ authors:
   - Hongju Kal
   - Gun Ko
   - Hyunwuk Lee
-publication: KR Patent
+publication: KR Patent Application
 abstract: 
 draft: false
 url_pdf: 
