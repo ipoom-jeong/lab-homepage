@@ -24,14 +24,12 @@ links:
 image:
 url_poster: ""
 url_code: ""
-
 sections:
  - block: markdown
     content:
       title:
       subtitle:
-      text: |
-        asd
+      text: asd
     design:
       columns: '1'
 ---
