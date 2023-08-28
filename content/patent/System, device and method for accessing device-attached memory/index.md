@@ -11,7 +11,7 @@ authors:
   - Wonseb Jeong
   - admin
   - Hyeokjun Choe
-publication: US Patent
+publication: US/EP/CN/KR Patent
 abstract: 
 draft: false
 url_pdf: 
