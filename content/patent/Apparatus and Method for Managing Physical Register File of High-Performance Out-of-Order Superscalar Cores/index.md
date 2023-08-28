@@ -5,7 +5,7 @@ authors:
   - Won Woo Ro
   - admin
 publication: KR Patent
-abstract: asd
+abstract: 
 draft: false
 url_pdf: 
 featured: true
@@ -25,12 +25,4 @@ image:
 url_poster: ""
 url_code: ""
 ---
-sections:
-  - block: hero
-    content:
-      title: |
-        Ipoom's
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
+asd
