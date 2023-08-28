@@ -30,6 +30,6 @@ image:
 url_poster: ""
 url_code: ""
 ---
-US: Registered in 2022.03.15 (Application No.: 16/988478, Patent No.: 11,276,452)
-CN: Applied in 2020.08.27 (Application No.: 202010879009.X)
-KR: Applied in 2020.04.14 (Application No.: 10-2020-0045023)
+- US: Registered in 2022.03.15 (Application No.: 16/988478, Patent No.: 11,276,452)
+- CN: Applied in 2020.08.27 (Application No.: 202010879009.X)
+- KR: Applied in 2020.04.14 (Application No.: 10-2020-0045023)
