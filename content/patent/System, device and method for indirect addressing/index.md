@@ -6,7 +6,7 @@ authors:
   - admin
   - Younggeon Yoo
   - Younho Jeon
-publication: EP/US/CN/KR Patents
+publication: EP/US/CN/KR Patents Application
 abstract: 
 draft: false
 url_pdf: 
