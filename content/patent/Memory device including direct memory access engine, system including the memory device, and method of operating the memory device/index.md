@@ -7,7 +7,7 @@ authors:
   - Wonseb Jeong
   - admin
   - Hyeokjun Choe
-publication: CN/DE/US/KR Patents
+publication: CN/DE/US/KR Patents Application
 abstract: 
 draft: false
 url_pdf: 
