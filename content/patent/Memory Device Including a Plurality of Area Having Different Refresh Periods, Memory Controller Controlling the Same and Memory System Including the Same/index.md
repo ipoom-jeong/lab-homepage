@@ -9,7 +9,7 @@ authors:
   - Minseong Kim
   - Yongtag Song
   - Sungjae Lee
-publication: US/CN/KR Patent
+publication: US/CN/KR Patents
 abstract: 
 draft: false
 url_pdf: 
