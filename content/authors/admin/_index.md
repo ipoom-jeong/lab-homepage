@@ -1,8 +1,7 @@
 ---
 title: Ipoom Jeong
 role: Assistant Professor
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - CPU/GPU Microarchitectures
   - System Architectures
@@ -30,7 +29,7 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: Yonsei University
-    url: "https://www.yonsei.ac.kr"
+    url: https://www.yonsei.ac.kr
 education:
   courses:
     - course: PhD in Electrial and Electronic Engineering
@@ -45,7 +44,7 @@ user_groups:
 last_name: Jeong
 highlight_name: false
 first_name: Ipoom
-email: "jip9110@gmail.com"
+email: jip9110@gmail.com
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
