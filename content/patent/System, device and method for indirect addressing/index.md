@@ -18,7 +18,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 url_tutorial: ""
-title: System, device and method for accessing device-attached memory
+title: System, device and method for indirect addressing
 tags:
 date: 2021-07-23T04:22:25.169Z
 url_slides: ""
