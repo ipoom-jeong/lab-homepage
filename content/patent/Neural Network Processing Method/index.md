@@ -8,7 +8,7 @@ authors:
   - Hyunwuk Lee
   - admin
   - Jiwon Lee
-publication: US/EP/CN/KR Patents
+publication: KR Patent
 abstract: 
 draft: false
 url_pdf: 
