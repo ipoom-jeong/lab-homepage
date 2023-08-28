@@ -47,7 +47,3 @@ first_name: Ipoom
 email: jip9110@gmail.com
 ---
 Ipoom Jeong is a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign (UIUC) and a member of the Institute of Electrical and Electronics Engineers (IEEE). He earned his Ph.D. degree from the Department of Electrical and Electronic Engineering at Yonsei University in 2020. His research expertise encompasses roles such as a Hardware Engineer in the Memory Business division at Samsung Electronics (2020-2021) and a Research Professor at the Department of Electrical and Electronic Engineering at Yonsei University (2021-2022).
-
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
