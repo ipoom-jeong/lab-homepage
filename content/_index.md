@@ -11,7 +11,7 @@ sections:
         Ipoom's
         Research Group
       image:
-        filename: Main.jpg
+        filename: welcome.jpg
       text: |
         <br>
         
