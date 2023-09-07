@@ -28,7 +28,7 @@ image:
 url_poster: ""
 url_code: ""
 ---
+- **US: Registered in 2023.08.29 (Patent No.: 11,741,034)**
 - CN: Applied in 2021.07.22 (Application No.: 202110832714.9)
 - DE: Applied in 2021.07.08 (Application No.: 10 2021 117 636.0)
-- US: Applied in 2021.07.07 (Application No.: 17/368,981)
 - KR: Applied in 2020.11.06 (Application No.: 10-2020-0148133)
